@@ -30,6 +30,20 @@ After build project success. Add the following dependency to your project.
 * Spring Boot
 * Java Projects
 
+## Available Fonts
+
+* Arial
+* Hanuman
+* Khmer
+* Khmer Battambang
+* Khmer Moul
+* Khmer OS Moul
+* Moul Pali
+* Suwannaphum
+* Tacteing
+* Tinos
+* Wingdings2
+
 ## Authors and acknowledgment
 Khmer Fonts are designed by [Danh Hong](https://khmertype.blogspot.com/)
 
