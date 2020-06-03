@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Arial">
+		<normal><![CDATA[fonts/Arial/ArialCustom.ttf]]></normal>
+		<bold><![CDATA[fonts/Arial/ArialBoldCustom.ttf]]></bold>
+		<italic><![CDATA[fonts/Arial/ArialItalicCustom.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Arial/ArialBoldItalicCustom.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Hanuman">
+		<normal><![CDATA[fonts/Hanuman/Hanuman-Regular.ttf]]></normal>
+		<bold><![CDATA[fonts/Hanuman/Hanuman-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/Hanuman/Hanuman-Regular.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Hanuman/Hanuman-Bold.ttf]]></boldItalic>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Khmer">
+		<normal><![CDATA[fonts/Khmer/Khmer-Regular.ttf]]></normal>
+		<italic><![CDATA[fonts/Khmer/Khmer-Regular.ttf]]></italic>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="KhmerBattambang">
+		<normal><![CDATA[fonts/KhmerBattambang/Battambang-Regular.ttf]]></normal>
+		<italic><![CDATA[fonts/KhmerBattambang/Battambang-Regular.ttf]]></italic>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="KhmerMoul">
+		<normal><![CDATA[fonts/KhmerMoul/Moul.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="KhmerOSMoul">
+		<normal><![CDATA[fonts/KhmerOSMoul/KhmerOSMoul.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Wingdings2">
+		<normal><![CDATA[fonts/Wingdings2/wingdings2.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Suwannaphum">
+		<normal><![CDATA[fonts/Suwannaphum/Suwannaphum-Regular.ttf]]></normal>
+		<italic><![CDATA[fonts/Suwannaphum/Suwannaphum-Regular.ttf]]></italic>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Tacteing">
+		<normal><![CDATA[fonts/Tacteing/Tacteing.TTF]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Tinos">
+		<normal><![CDATA[fonts/Tinos/Tinos-Regular.ttf]]></normal>
+		<bold><![CDATA[fonts/Tinos/Tinos-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/Tinos/Tinos-Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Tinos/Tinos-BoldItalic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="MoulPali">
+		<normal><![CDATA[fonts/MoulPali/Moulpali-Regular.ttf]]></normal>
+		<italic><![CDATA[fonts/MoulPali/Moulpali-Regular.ttf]]></italic>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+</fontFamilies>
